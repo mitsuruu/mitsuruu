@@ -5,7 +5,7 @@
   
   <div align="left">
     <samp><i>💻 Full time <b>Software Engineer</b>.</i></samp><br/>
-    <samp><i>📚 Currently learning <b>Rust, Zig & Nix</b>.</i></samp><br/>
+    <samp><i>📚 Currently learning <b>Rust, Go & Zig</b>.</i></samp><br/>
     <samp><i>❄️ Current <b>NixOS</b> user.</i></samp>
   </div>
 </div>
@@ -23,5 +23,5 @@
   <samp>                <i>Vertex</i> <b>ARC60</b>.</samp><br/>
   <samp>           <i>Gray Studio</i> <b>Space65 R3</b>.</samp><br/>
   <samp>                 <i>Wuque</i> <b>Ikki68 Aurora</b>.</samp><br/>
-  <samp>              <i>Meletrix</i> <b>Zoom65 (Olivia Edition)</b>.</samp><br/>
+  <samp>            <i>qwertykeys</i> <b>Neo Ergo</b>.</samp><br/>
 </div>
