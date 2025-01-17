@@ -4,8 +4,8 @@
   **<kbd> <br> ❄️ Mitsuru ❄️ <br> </kbd>**
   
   <div align="left">
-    <samp><i>💻 Full time <b>Software Engineer</b>.</i></samp><br/>
-    <samp><i>📚 Currently learning <b>Rust, Go & Zig</b>.</i></samp><br/>
+    <samp><i>💻 Full time <b>Senior Software Engineer</b>.</i></samp><br/>
+    <samp><i>📚 Currently learning <b>Zig & OCaml</b>.</i></samp><br/>
     <samp><i>❄️ Current <b>NixOS</b> user.</i></samp>
   </div>
 </div>
